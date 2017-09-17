@@ -1,0 +1,26 @@
+{
+  "name": "kantan-diet",
+  "version": "1.0.0",
+  "description": "A simple tool that suggest recipes for the hardest of diets",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/i-nomads/kantan-diet.git"
+  },
+  "keywords": [
+    "diet",
+    "nutrition"
+  ],
+  "author": "Cyrille Labesse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/i-nomads/kantan-diet/issues"
+  },
+  "homepage": "https://github.com/i-nomads/kantan-diet#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
